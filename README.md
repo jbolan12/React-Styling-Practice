@@ -21,15 +21,15 @@ This project demonstrates how to create a dynamic greeting in React based on the
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/dynamic-greeting.git
+   git clone https://github.com/jbolan12/React-Styling-Practice
    cd dynamic-greeting
 
 
 Install dependencies: This project uses the following dependencies:
 
-react: 18.3.1
-react-dom: 18.3.1
-typescript (devDependency): 3.3.3
+- react: 18.3.1
+- react-dom: 18.3.1
+- typescript (devDependency): 3.3.3
 
 
 ## Install them by running:
